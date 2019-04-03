@@ -1,0 +1,6 @@
+framework module Pods_mapsapi {
+  umbrella header "Pods-mapsapi-umbrella.h"
+
+  export *
+  module * { export * }
+}
